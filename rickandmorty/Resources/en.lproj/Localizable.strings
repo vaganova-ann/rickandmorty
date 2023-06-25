@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  rickandmorty
+
+  Created by Анна on 20.06.2023.
+  
+*/
+"tabbar.locations" = "Locations";
+"tabbar.favorites" = "Favorites";
+"navbar.title.locations" = "Locations";
+"navbar.title.favorites" = "Favorites";
+"api-error.parsing" = "Parsing error!";
+"api-error.server" = "Server error!";
+"api-error.unknown" = "Oops! Unknown error";
+"locations.population" = "There are %d residents";
